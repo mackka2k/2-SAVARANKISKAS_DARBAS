@@ -1,2 +1,2 @@
 # 2-SAVARANKISKAS_DARBAS
-[DOWNLOAD]()
+[DOWNLOAD](https://github.com/mackka2k/2-SAVARANKISKAS_DARBAS/releases/download/V0.1/Setup.7z)
